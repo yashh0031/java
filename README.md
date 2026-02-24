@@ -20,6 +20,11 @@ Example:
    javac Calculator.java
    java Calculator
 ---
+### 3️⃣ Temperature.java
+This program converts temperature from Celsius(°C) to Fahrenheit(°F).
+💡 Example
+   Enter temperature in celsius: 30
+   Temperature in Fahrenheit: 86.0
 ## 🎯 Purpose
 This respository is part of my java learning journey.
 ---
